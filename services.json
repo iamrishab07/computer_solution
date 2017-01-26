@@ -1,0 +1,24 @@
+[
+  {
+    "id":1,
+    "name":"hardware repair",
+    "description": "Repair hardware within stipulated time."
+  },
+  
+    {
+    "id":2,
+    "name":"Software repair",
+    "description": "Repair hardware within stipulated time."
+  },  
+  
+    {
+    "id":3,
+    "name":"Driver repair",
+    "description": "Repair hardware within stipulated time."
+  },  
+  {
+    "id":4,
+    "name":"malware repair",
+    "description": "Repair hardware within stipulated time."
+  }  
+]
